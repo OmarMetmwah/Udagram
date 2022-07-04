@@ -1,4 +1,4 @@
-- The app is accessible via [this link](http://metmwah.s3-website-us-east-1.amazonaws.com/).
+- The app is accessible via [http://metmwah.s3-website-us-east-1.amazonaws.com/](http://metmwah.s3-website-us-east-1.amazonaws.com/).
 - Demo Video [this link](http://metmwah.s3-website-us-east-1.amazonaws.com/)
 
 # Hosting a Full-Stack Application
