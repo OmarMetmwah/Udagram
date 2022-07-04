@@ -1,1 +1,1 @@
-aws s3 cp --recursive  ./www s3://metmwah/
+aws s3 cp --recursive  ./www $S3_BUCKET_FRONTEND
