@@ -48,7 +48,7 @@ the frontend and the backend is added and it lives [here](../package.json).
 
 - The `config.yml` file that ensures the build occurs in a logical sequence including Comments to explain the flow of the pipeline, is present [here](./Pipeline/config.yml).
 
-- A screenshot of the last build shows that my CircleCi account is authorized to access my repo on Github and is detecting changes each time I am pushing to the master branch [lives here](./Pipeline/circleci/Udagram-Pipeline-Build-Steps.png).
+- A screenshot of the last build shows that my CircleCi account is authorized to access my repo on Github and is detecting changes each time I am pushing to the master branch ![lives here](./Pipeline/circleci/Udagram-Pipeline-Build-Steps.png).
 
 - All the secrets found in the application are configured inside CircleCi and passed to the production application. A screenshot of the configuration screen is present [here](./Pipeline/circleci/Udagram-Environment-Variables.png) to show where secrets were added.
 
