@@ -6,6 +6,9 @@ environment-defaults:
   udagram-api-dev:
     branch: null
     repository: null
+  udagram-api-devv:
+    branch: null
+    repository: null
 global:
   application_name: udagram-api
   branch: null
@@ -22,5 +25,3 @@ global:
   repository: null
   sc: null
   workspace_type: Application
-  deploy:
-    artifact: www/Archive.zip
