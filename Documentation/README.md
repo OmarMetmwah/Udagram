@@ -53,11 +53,13 @@ the frontend and the backend is added and it lives [here](../package.json).
 - All the secrets found in the application are configured inside CircleCi and passed to the production application. A screenshot of the configuration screen is present ![here](./Pipeline/circleci/Udagram-Environment-Variables.png) to show where secrets were added.
 
 > ## Diagrams
-- The submission contains a simple diagram giving a high-level ![overview of the infrastructure](./AWS/Architecture-Diagram.png) 
+- The submission contains a simple diagram giving a high-level:
 
-![Another One](./AWS/Architecture-Diagram-2.png) 
+ ![overview of the infrastructure](./AWS/Architecture-Diagram.png) 
 
-and diagram showing the ![overview of the pipeline](./Pipeline/circleci-Pipeline-Daigram.png). 
+and diagram showing the pipeline:
+
+ ![overview of the pipeline](./Pipeline/circleci-Pipeline-Daigram.png). 
 
 The diagram Includes the different AWS services used for hosting the DB, API and UI, A representation of the communication between the services is present in the diagrams.
 
