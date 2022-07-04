@@ -8,10 +8,10 @@ jobs:
         docker:
             - image: "cimg/base:stable"
         steps:
-            # - node/install
-            # - checkout 
-            # - aws-cli/setup
-            # - eb/setup
+            - node/install
+            - checkout 
+            - aws-cli/setup
+            - eb/setup
             # - run:
             #     name: Install Front-End Dependencies
             #     command: npm run frontend:install
